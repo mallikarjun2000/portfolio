@@ -1,0 +1,16 @@
+.leftside {
+    background-color: chocolate;
+    height: 100vh;
+}
+.rightside {
+    height: 100vh;
+    width: 150%;
+}
+
+a{
+    font-style: oblique;
+    opacity: 90%;
+    font-size: 170%;
+    color:antiquewhite;
+    font-weight: 400;
+}
