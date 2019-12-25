@@ -5,12 +5,24 @@
 .rightside {
     height: 100vh;
     width: 150%;
+    max-width: unset;
 }
 
 a{
     font-style: oblique;
+    background-color: black
     opacity: 90%;
     font-size: 170%;
     color:antiquewhite;
     font-weight: 400;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+}
+html, body
+{
+    height: 100%;
 }
