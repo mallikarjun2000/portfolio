@@ -11,10 +11,10 @@
 a{
     font-style: oblique;
     background-color: black
-    opacity: 90%;
-    font-size: 170%;
+    opacity: 60%;
+    font-size: 120%;
     color:antiquewhite;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 @media (min-width: 1200px) {
