@@ -26,3 +26,29 @@ html, body
 {
     height: 100%;
 }
+
+.about-div{
+    max-height: 100%;
+    margin-bottom: 50px;
+}
+
+.education-div{
+    max-height: 100%;
+}
+
+.interests-div{
+    max-height: 100%;
+    height: 500px;
+}
+
+.additional-div{
+    height: 600px;
+}
+
+.about-div{
+    height: 600px;
+}
+
+.skills-div{
+    height: 600px;
+}
